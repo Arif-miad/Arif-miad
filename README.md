@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arif-miad</h1>
+<h1 align="center">Hi 👋, I'm Arif-miah</h1>
 <h3 align="center">A machine learning engineer. </h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbktuM7bMLU3uNHOdO8ANzT54ToflA4-XGF9A2z50NeUqmkAbEcDbq-Tw7CpJPbiTbh6Y&usqp=CAU">
 
