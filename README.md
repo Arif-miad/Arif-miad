@@ -1,8 +1,6 @@
-![image](https://github.com/Arif-miad/Arif-miad/assets/83044522/51ada997-1032-4c20-9f4c-5819cfa64167)
+![image](https://github.com/Arif-miad/canva-edite/blob/main/Arif%20Miah.png)
 
 
-<h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">A passionate Artificial Intelligence Specialist from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-miad&label=Profile%20views&color=0e75b6&style=flat" alt="arif-miad" /> </p>
@@ -11,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 📝 I regularly write articles on [https://www.kaggle.com/arifmiad](https://www.kaggle.com/arifmiad)
+- 📝 I regularly write articles on https://www.linkedin.com/in/arif-miah-8751bb217/
 
 - 💬 Ask me about **machine learning,deep learning, natural language processing**
 
-- 📫 How to reach me **arifadi952@gmail.com**
+- 📫 How to reach me **arifmiah@gmail.com**
 
-- 📄 Know about my experiences [https://www.kaggle.com/arifmiad](https://www.kaggle.com/arifmiad)
+- 📄 Know about my experiences https://www.kaggle.com/arifmiad
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
