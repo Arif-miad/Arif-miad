@@ -1,7 +1,7 @@
 ![image](https://github.com/Arif-miad/canva-edite/blob/main/Arif%20Miah.png)
 
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://github.com/Arif-miad/Arif-miad/blob/main/7f9b9c02-f363-4cf3-a5c6-21df76341230.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-miad&label=Profile%20views&color=0e75b6&style=flat" alt="arif-miad" /> </p>
 
