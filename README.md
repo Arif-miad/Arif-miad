@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arifmiah@gmail.com**
 
-- 📄 Know about my experiences https://www.kaggle.com/arifmiad
+- 📄 Know about my experiences https://www.kaggle.com/arifmia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
