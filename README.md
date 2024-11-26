@@ -1,11 +1,11 @@
 ![image](https://github.com/Arif-miad/canva-edite/blob/main/Arif%20Miah.png)
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-miad&label=Profile%20views&color=0e75b6&style=flat" alt="arif-miad" /> </p>
 
-- 🌱 I’m currently learning **machine learning , Deep Learing , NLP**
+- 🌱 I’m  an expert **AI, Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Large Language Models (LLMs)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
