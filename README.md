@@ -1,4 +1,4 @@
-![image](https://github.com/Arif-miad/canva-edite/blob/main/Arif%20Miah.png)
+![image](https://github.com/Arif-miad/Arif-miad/blob/main/ChatGPT%20Image%20Jun%2011%2C%202026%2C%2011_21_10%20PM.png)
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/Arif-miad/Arif-miad/blob/main/7f9b9c02-f363-4cf3-a5c6-21df76341230.jpg">
